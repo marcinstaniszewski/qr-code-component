@@ -54,7 +54,7 @@ body {
   color: var(--grayish-blue);
 }
 
-.container-text h2 {
+.container-text h1 {
   font-size: 22px;
   color: var(--dark-blue);
 }
